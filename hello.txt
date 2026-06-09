@@ -1,1 +1,1 @@
-testing CI/CD pipeline trigger
+testing CI/CD pipeline - build triggered automatically!
